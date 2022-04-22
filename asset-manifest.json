@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/barcode-website/static/js/main.5444ba36.js",
+    "main.js": "/barcode-website/static/js/main.15c9c1a8.js",
     "static/media/main.png": "/barcode-website/static/media/main.f04fcf0f6e2e6ca16864.png",
     "static/media/map.png": "/barcode-website/static/media/map.f67bcf7fb81f9f9c774c.png",
     "static/media/Barcode-package.png": "/barcode-website/static/media/Barcode-package.26f7c42bbc8f526a5c89.png",
@@ -18,9 +18,9 @@
     "static/media/Barcode-simpleLogo.png": "/barcode-website/static/media/Barcode-simpleLogo.e51af7b4116d52f5157e.png",
     "static/media/Barcode-logo.png": "/barcode-website/static/media/Barcode-logo.c989190bb1b18f0b745d.png",
     "index.html": "/barcode-website/index.html",
-    "main.5444ba36.js.map": "/barcode-website/static/js/main.5444ba36.js.map"
+    "main.15c9c1a8.js.map": "/barcode-website/static/js/main.15c9c1a8.js.map"
   },
   "entrypoints": [
-    "static/js/main.5444ba36.js"
+    "static/js/main.15c9c1a8.js"
   ]
 }
