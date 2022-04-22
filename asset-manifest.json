@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.js": "/static/js/main.f27ab596.js",
-    "static/media/main.png": "/static/media/main.f04fcf0f6e2e6ca16864.png",
-    "static/media/map.png": "/static/media/map.f67bcf7fb81f9f9c774c.png",
-    "static/media/Barcode-package.png": "/static/media/Barcode-package.26f7c42bbc8f526a5c89.png",
-    "static/media/store2.png": "/static/media/store2.e7c88b9ed8a8c897269b.png",
-    "static/media/cheetos.png": "/static/media/cheetos.26eb1359cafbe8f27a6c.png",
-    "static/media/store1.png": "/static/media/store1.9295c061b86bdf2d08f7.png",
-    "static/media/play-store.png": "/static/media/play-store.96db4a9f5814ef417f1b.png",
-    "static/media/app-store.png": "/static/media/app-store.51eda1fc291aeddae3ed.png",
-    "static/media/Trend_Sans.ttf": "/static/media/Trend_Sans.0c74634cac0f2a5bffbe.ttf",
-    "static/media/Barcode_service.png": "/static/media/Barcode_service.cf4d72d6e2169fff8f93.png",
-    "static/media/headphones.png": "/static/media/headphones.5c60d8dd40ab4ab441db.png",
-    "static/media/delivery.png": "/static/media/delivery.b30649f7dc6ce1a1dcb1.png",
-    "static/media/search.png": "/static/media/search.4dfbf14715a36c02f30d.png",
-    "static/media/phone.png": "/static/media/phone.21a11c78c410cbccaf1c.png",
-    "static/media/Barcode-simpleLogo.png": "/static/media/Barcode-simpleLogo.e51af7b4116d52f5157e.png",
-    "static/media/Barcode-logo.png": "/static/media/Barcode-logo.c989190bb1b18f0b745d.png",
-    "index.html": "/index.html",
-    "main.f27ab596.js.map": "/static/js/main.f27ab596.js.map"
+    "main.js": "/barcode-website/static/js/main.5444ba36.js",
+    "static/media/main.png": "/barcode-website/static/media/main.f04fcf0f6e2e6ca16864.png",
+    "static/media/map.png": "/barcode-website/static/media/map.f67bcf7fb81f9f9c774c.png",
+    "static/media/Barcode-package.png": "/barcode-website/static/media/Barcode-package.26f7c42bbc8f526a5c89.png",
+    "static/media/store2.png": "/barcode-website/static/media/store2.e7c88b9ed8a8c897269b.png",
+    "static/media/cheetos.png": "/barcode-website/static/media/cheetos.26eb1359cafbe8f27a6c.png",
+    "static/media/store1.png": "/barcode-website/static/media/store1.9295c061b86bdf2d08f7.png",
+    "static/media/play-store.png": "/barcode-website/static/media/play-store.96db4a9f5814ef417f1b.png",
+    "static/media/app-store.png": "/barcode-website/static/media/app-store.51eda1fc291aeddae3ed.png",
+    "static/media/Trend_Sans.ttf": "/barcode-website/static/media/Trend_Sans.0c74634cac0f2a5bffbe.ttf",
+    "static/media/Barcode_service.png": "/barcode-website/static/media/Barcode_service.cf4d72d6e2169fff8f93.png",
+    "static/media/headphones.png": "/barcode-website/static/media/headphones.5c60d8dd40ab4ab441db.png",
+    "static/media/delivery.png": "/barcode-website/static/media/delivery.b30649f7dc6ce1a1dcb1.png",
+    "static/media/search.png": "/barcode-website/static/media/search.4dfbf14715a36c02f30d.png",
+    "static/media/phone.png": "/barcode-website/static/media/phone.21a11c78c410cbccaf1c.png",
+    "static/media/Barcode-simpleLogo.png": "/barcode-website/static/media/Barcode-simpleLogo.e51af7b4116d52f5157e.png",
+    "static/media/Barcode-logo.png": "/barcode-website/static/media/Barcode-logo.c989190bb1b18f0b745d.png",
+    "index.html": "/barcode-website/index.html",
+    "main.5444ba36.js.map": "/barcode-website/static/js/main.5444ba36.js.map"
   },
   "entrypoints": [
-    "static/js/main.f27ab596.js"
+    "static/js/main.5444ba36.js"
   ]
 }
